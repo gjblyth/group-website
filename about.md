@@ -22,3 +22,7 @@ You can cite the project as:
 - Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
 - 
 - Twitter: [{{ site.twitter }}]({{ site.twitter }})
+
+## Using footer
+
+{% include footer.html %}
