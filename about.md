@@ -2,8 +2,6 @@
 layout: default
 
 title: About
-
-lesson-example: "https://carpentries.github.io/lesson-example/"
 ---
 
 # About
